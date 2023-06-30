@@ -1,0 +1,7 @@
+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
+git remote add origin https://github.com/nagagoudtext/nagagoudtext. 
+
+git branch -m movies chinni
+git fetch origin
+git branch -u origin/chinni chinni
+git remote set-head origin -a                                                                       
